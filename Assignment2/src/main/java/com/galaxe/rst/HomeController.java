@@ -19,6 +19,7 @@ import org.springframework.web.servlet.ModelAndView;
  * Handles requests for the application home page.
  */
 // Controls all the file
+//This is the second commit
 @Controller
 public class HomeController {
 	
